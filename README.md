@@ -66,7 +66,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Saint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Saint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" 
+    height="180em"
   />
 </p>
 
@@ -75,15 +76,15 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Code-Saint&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Saint&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Saint&theme=tokyonight&title_color=8DBDFF&text_color=C9D1D9"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Code-Saint&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Saint&theme=tokyonight&hide_border=true"
+  />
 </p>
 
----
+```
