@@ -1,24 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ayush Kindo</h1>
-<h3 align="center">A passionate Cybersecurity Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-saint&label=Profile%20views&color=0e75b6&style=flat" alt="code-saint" /> </p>
-
-- 📫 How to reach me **lezyokins@gmail.com**
- 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ayush_kindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_kindo" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Code-Saint&label=Profile%20Views&color=7B68EE&style=flat" alt="profile views"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-saint&show_icons=true&locale=en&layout=compact" alt="code-saint" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-saint&show_icons=true&locale=en" alt="code-saint" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-saint&" alt="code-saint" /></p>
+
+<table>
+<tr>
+
+<td width="42%" valign="middle">
+
+# Hi 👋, I'm Ayush Kindo
+
+### Backend Developer • Automation Engineer • AI Workflows
+
+🚀 Building scalable backend applications and intelligent automation systems.
+
+🛠️ Working with:
+`Python` • `Docker` • `Flask` • `n8n`
+
+📫 Reach me at:  
+**lezyokins@gmail.com**
+
+</td>
+
+<td width="58%">
+
+<img src="https://raw.githubusercontent.com/Code-Saint/Code-Saint/main/banner.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 👨‍💻 About Me
+
+- 🧠 Interested in Backend Development, REST APIs, Automation Engineering, and AI Workflow Systems  
+- 🌱 Exploring scalable backend architectures and intelligent automation pipelines  
+- 🎯 Focused on building impactful software systems with clean architecture and automation-first design  
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ayush-kindo" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+</a>
+
+<a href="https://instagram.com/ayush_kindo" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Saint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Code-Saint&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Saint&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Code-Saint&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
