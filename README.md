@@ -2,33 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Code-Saint&label=Profile%20Views&color=7B68EE&style=flat" alt="profile views"/>
 </p>
 
-<table>
-<tr>
-
-<td width="42%" valign="middle">
-
-# Hi 👋, I'm Ayush Kindo
-
-### Backend Developer • Automation Engineer • AI Workflows
-
-🚀 Building scalable backend applications and intelligent automation systems.
-
-🛠️ Working with:
-`Python` • `Docker` • `Flask` • `n8n`
-
-📫 Reach me at:  
-**lezyokins@gmail.com**
-
-</td>
-
-<td width="58%">
-
-<img src="https://raw.githubusercontent.com/Code-Saint/Code-Saint/main/banner.png" width="100%">
-
-</td>
-
-</tr>
-</table>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Code-Saint/Code-Saint/main/banner.png" width="100%"> 
+</p>
 
 ---
 
@@ -47,10 +23,14 @@
 <a href="https://linkedin.com/in/ayush-kindo" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/ayush_kindo" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35"/>
 </a>
+&nbsp;
+<a href="mailto:lezyokins@gmail.com"> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" height="35"/> 
+</a> 
 
 </p>
 
